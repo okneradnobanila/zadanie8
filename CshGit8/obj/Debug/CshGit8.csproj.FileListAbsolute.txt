@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\CshGit8\CshGit8\bin\Debug\CshGit8.exe.config
+C:\Users\acer\source\repos\CshGit8\CshGit8\bin\Debug\CshGit8.exe
+C:\Users\acer\source\repos\CshGit8\CshGit8\bin\Debug\CshGit8.pdb
+C:\Users\acer\source\repos\CshGit8\CshGit8\bin\Debug\StudentLib.dll
+C:\Users\acer\source\repos\CshGit8\CshGit8\bin\Debug\StudentLib.pdb
+C:\Users\acer\source\repos\CshGit8\CshGit8\obj\Debug\CshGit8.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\CshGit8\CshGit8\obj\Debug\CshGit8.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CshGit8\CshGit8\obj\Debug\CshGit8.csproj.CopyComplete
+C:\Users\acer\source\repos\CshGit8\CshGit8\obj\Debug\CshGit8.exe
+C:\Users\acer\source\repos\CshGit8\CshGit8\obj\Debug\CshGit8.pdb
